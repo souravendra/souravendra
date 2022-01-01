@@ -6,8 +6,8 @@ Tech Stack(s): MERN, PERN, SpringBoot, Redis
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravendra&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
 
 [![](https://img.shields.io/github/followers/souravendra?style=social)](https://www.linkedin.com/in/souravendra)
-![YouTube](https://img.shields.io/youtube/channel/views/UCqnCDo02VHdAYmrROb_ZiEw?style=social)
-![Twitch](https://img.shields.io/twitch/status/skrishdjent)
+[![](https://img.shields.io/youtube/channel/views/UCqnCDo02VHdAYmrROb_ZiEw?style=social)](https://www.youtube.com/channel/UCqnCDo02VHdAYmrROb_ZiEw)
+[![](https://img.shields.io/twitch/status/skrish_djent)](https://www.twitch.tv/skrish_djent)
 
 [![](https://raw.githubusercontent.com/souravendra/souravendra/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/souravendra/souravendra/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/souravendra/souravendra/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
