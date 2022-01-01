@@ -1,6 +1,8 @@
 ### Hi, I'm Souravendra. 👋 
 Pronouns: he/him
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravendra&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+
 ![Github Followers](https://img.shields.io/github/followers/souravendra?style=plastic)
 ![YouTube](https://img.shields.io/youtube/channel/views/UCqnCDo02VHdAYmrROb_ZiEw?style=social)
 ![Twitch](https://img.shields.io/twitch/status/skrishdjent)
