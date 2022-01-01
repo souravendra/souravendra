@@ -7,7 +7,7 @@ Tech Stack(s): MERN, PERN, SpringBoot, Redis
 
 [![](https://img.shields.io/badge/Github-%2Fsouravendra-brightgreen)](https://github.com/souravendra)
 [![](https://img.shields.io/badge/LinkedIn-%2Fsouravendra-blue)](https://www.linkedin.com/in/souravendra)
-[![](https://img.shields.io/badge/YouTube-%2Fsouravendra-red)](https://www.youtube.com/channel/UCqnCDo02VHdAYmrROb_ZiEw)
+[![](https://img.shields.io/badge/YouTube-%2Fskrish-red)](https://www.youtube.com/channel/UCqnCDo02VHdAYmrROb_ZiEw)
 [![](https://img.shields.io/youtube/channel/views/UCqnCDo02VHdAYmrROb_ZiEw?style=social)](https://www.youtube.com/channel/UCqnCDo02VHdAYmrROb_ZiEw)
 [![](https://img.shields.io/twitch/status/skrish_djent)](https://www.twitch.tv/skrish_djent)
 
