@@ -1,4 +1,5 @@
-### Hi, I'm Souravendra. 👋 - 😄 Pronouns: he/him
+### Hi, I'm Souravendra. 👋 
+Pronouns: he/him
 
 ![Github Followers](https://img.shields.io/github/followers/souravendra?style=plastic)
 ![YouTube](https://img.shields.io/youtube/channel/views/UCqnCDo02VHdAYmrROb_ZiEw?style=social)
