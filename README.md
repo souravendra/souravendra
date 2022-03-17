@@ -1,4 +1,7 @@
 ### Hi, I'm Souravendra. 👋 
+I love designing and building distributed systems!
+I'm a Full-stack Software Engineer at WarehouseNow, Bengaluru.
+I graduated in 2019 with a Bachelor's Degree in Electronics & Comm. Engineering.
 Pronouns: he/him
 
 [![](https://img.shields.io/badge/Github-%2Fsouravendra-brightgreen)](https://github.com/souravendra)
