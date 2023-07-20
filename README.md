@@ -1,6 +1,6 @@
 ### Hi, I'm Souravendra. 👋 I love designing and building distributed systems!
 
-_I'm a software engineer from Kolkata, India.   I work on frontend, backend & data aggregation projects!_
+_I'm a software engineer from Kolkata, India. I have a love/hate relationship with Java/JavaScript/Go & like to work on frontend, backend & data aggregation projects!_
 
 _I graduated in 2019 with a Bachelor's Degree in Electronics & Comm. Engineering and have won several awards in music. I love sports but I suck at most! :P_
 
