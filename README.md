@@ -1,6 +1,6 @@
 ### Hi, I'm Souravendra. 👋 I love designing and building distributed systems!
 
-_I'm a software engineer from Kolkata, India. I have a love/hate relationship with JavaScript/Go/Java & like to solve complex problems, build beautiful UI to drive product growth!_
+_I'm a software engineer from Kolkata, India. I have a love/hate relationship with JavaScript/Go/Java & like to solve complex problems & create an impact wherever I go._
 
 _I graduated in 2019 with a Bachelor's Degree in Electronics & Comm. Engineering and have won several awards in music. I love sports but I suck at most! :P_
 
