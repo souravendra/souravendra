@@ -1,4 +1,4 @@
-### Hi, I'm Souravendra. 👋 I love contributing to the startup ecosystem in India!
+### Hi, I'm Souravendra. 👋 a huge fan of the startup ecosystem in India!
 
 I'm currently leading a groundbreaking Zero to One B2B PaaS project at Animall Tech. 
 I have a love/hate relationship with JavaScript / Go / Java & like to solve complex problems & create an impact wherever I go.
