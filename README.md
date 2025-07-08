@@ -2,7 +2,7 @@
 
 I'm currently leading a groundbreaking Zero to One B2B PaaS project at Animall Tech. 
 
-I have a love/hate relationship with distributed systems, JavaScript / Go / Java & like to solve complex problems & create an impact wherever I go.
+I have a love/hate relationship with distributed systems, Typescript / JavaScript / Go / Java & like to solve complex problems & create an impact wherever I go.
 
 
 I graduated in 2019 with a Bachelor's Degree in Electronics Engineering and have won several awards in music. I love sports but suck at most! :P
