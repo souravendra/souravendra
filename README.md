@@ -1,8 +1,8 @@
 ### Hi, I'm Souravendra, India is growing and I want to be a part of it.
 
-I'm currently leading a groundbreaking Zero to One B2B PaaS project at Animall Tech. 
+I'm currently building a really cool AI QA Automation Agent at empirical.run! Previously I've independently led zero-to-one projects at multiple companies.
 
-I have a love/hate relationship with distributed systems, Typescript / JavaScript / Go / Java & like to solve complex problems & create an impact wherever I go.
+I have a love/hate relationship with Typescript / Go / Pyhton & like to solve complex problems & create an impact wherever I go.
 
 
 I graduated in 2019 with a Bachelor's Degree in Electronics Engineering and have won several awards in music. I love sports but suck at most! :P
