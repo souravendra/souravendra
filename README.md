@@ -1,7 +1,9 @@
 ### Hi, I'm Souravendra, India is growing and I want to be a part of it.
 
 I'm currently building a really cool AI QA Automation Agent at empirical.run!
+
 Previously I've independently led zero-to-one projects at multiple companies.
+
 I have a love/hate relationship with Typescript / Go / Python & like to solve complex problems & create an impact wherever I go.
 
 
