@@ -1,13 +1,9 @@
 ### Hi, I'm Souravendra, India is growing and I want to be a part of it.
 
-I'm currently building a really cool AI QA Automation Agent at empirical.run!
-
-Previously I've independently led zero-to-one projects at multiple companies.
-
-I have a love/hate relationship with Typescript / Go / Python & like to solve complex problems & create an impact wherever I go.
-
-
-I graduated in 2019 with a Bachelor's Degree in Electronics Engineering and have won several awards in music. I love sports but suck at most! :P
+I'm currently building AI in stealth.
+Independently led zero-to-one projects at multiple companies.
+I have a love/hate relationship with Typescript / Go / Python
+I graduated in 2019 with a Bachelor's Degree in Electronics Engineering and have won several awards in music. I love sports!
 
 Pronouns: he/him
 
