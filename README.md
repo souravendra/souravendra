@@ -1,6 +1,6 @@
 ### Hi, I'm Souravendra, India is growing and I want to be a part of it.
 
-I'm currently building AI in stealth.
+I'm currently building AI agents for fun!
 Independently led 0 to 1 projects at multiple companies.
 I have a love/hate relationship with Typescript / Go / Python.
 I graduated in 2019 with a Bachelor's Degree in Electronics Engineering and have won several awards in music. I love sports!
