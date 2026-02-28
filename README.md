@@ -1,8 +1,8 @@
 ### Souravendra · Senior Software Engineer (AI Systems) · 7+ yoe
 
-Semi-Pro LLM Grappler currently building Voice AI companions end-to-end — infra, agents, tools, observability, ui/ux and everything in between.
+Experienced LLM grappler currently building Voice AI companions end-to-end — infra, agents, tools, observability, ui/ux and everything in between.
 
-Have previously led 0→1 teams across fraud detection ML systems, multi-tenant highly secure systems, agentic automation & voice platforms at multiple early stage startups.
+Have led 0→1 teams across fraud detection ML systems, multi-tenant highly secure systems, agentic automation & voice platforms at multiple early stage startups.
 
 90% of my code is in `TypeScript` / `Python3` / `Go`.
 
