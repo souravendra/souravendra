@@ -1,13 +1,12 @@
-### Hi, I'm Souravendra, India is growing and I want to be a part of it.
+### Souravendra · Senior Software Engineer (AI Systems) · 7+ yoe
 
-I'm currently building functional Voice AI companions end to end.
+Semi-Pro LLM Grappler currently building Voice AI companions end-to-end — infra, agents, tools, observability, ui/ux and everything in between.
 
-I've independently led 0 to 1 projects at multiple companies.
-I have a love/hate relationship with Typescript / Go / Python.
+Have previously led 0→1 teams across fraud detection ML systems, multi-tenant highly secure systems, agentic automation & voice platforms at multiple early stage startups.
 
-I graduated in 2019 with a Bachelor's Degree in Electronics Engineering and have won several awards in music. I love sports!
+90% of my code is in `TypeScript` / `Python3` / `Go`.
 
-Pronouns: he/him
+Electronics Engineering '19 · Multi-award winning musician · Sports & Fitness fanatic · he/him · 🇮🇳
 
 [![](https://img.shields.io/badge/Github-%2Fsouravendra-brightgreen)](https://github.com/souravendra)
 [![](https://img.shields.io/badge/LinkedIn-%2Fsouravendra-blue)](https://www.linkedin.com/in/souravendra)
