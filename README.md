@@ -2,7 +2,7 @@
 
 Experienced LLM grappler currently building voice ai companions end-to-end — infra, agents, tools, observability, ui/ux and everything in between.
 
-Have led 0→1 teams across fraud detection ML systems, multi-tenant highly secure systems, agentic automation & voice platforms at multiple early stage startups.
+Have led 0→1 teams across fraud detection ML systems, multi-tenant highly secure integrations with banks, agentic automation & voice platforms at multiple early stage startups.
 
 90% of my code is in `TypeScript` / `Python3` / `Go`.
 
