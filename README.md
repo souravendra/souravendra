@@ -4,7 +4,7 @@ Experienced LLM grappler currently building voice ai companions end-to-end — i
 
 Have led 0→1 teams across fraud detection ML systems, multi-tenant highly secure integrations with banks, agentic automation & voice platforms at multiple early stage startups.
 
-90% of my code is in `TypeScript` / `Python3` / `Go`.
+90% of my code is in  / `Python3` / `Go` / `TypeScript`.
 
 Electronics Engineering '19 · Multi-award winning musician · Sports & Fitness fanatic · he/him · 🇮🇳
 
