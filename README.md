@@ -1,12 +1,12 @@
-### Souravendra · Senior Software Engineer (AI Systems) · 7+ yoe
+### souravendra · 2x founding engg, 1x cto · senior software engineer ai systems · 7+ yoe
 
-Experienced LLM grappler currently building agentic low-latency Voice AI systems end-to-end — infra, agents, tools, observability, ui/ux and everything in between.
+Experienced LLM grappler currently building agentic low-latency Voice AI systems end-to-end — infra, agents, tools, observability, ui/ux and everything in between. Love to experiment with goal-based browser agents! 
 
-Have led 0→1 teams across fraud detection ML systems, multi-tenant highly secure integrations with banks, agentic automation & voice platforms at multiple early stage startups.
+Have previously led 0→1 teams across fraud detection ML systems, multi-tenant highly secure integrations with banks, agentic automation & voice platforms at multiple early stage startups.
 
 90% of my code is in `Python3` / `Go` / `TypeScript`.
 
-Electronics Engineering '19 · Multi-award winning musician · Sports & Fitness fanatic · he/him · 🇮🇳
+Electronics Engineering '19 · Multi-award winning musician · ran Asia's toughest hurdle race Devil's Circuit in 2026 · he/him · 🇮🇳
 
 [![](https://img.shields.io/badge/Github-%2Fsouravendra-brightgreen)](https://github.com/souravendra)
 [![](https://img.shields.io/badge/LinkedIn-%2Fsouravendra-blue)](https://www.linkedin.com/in/souravendra)
