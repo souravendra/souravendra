@@ -1,8 +1,10 @@
-### cto @ badho.ai · 2x founding engineer · voice ai · 7+ yoe
+### cto @ badho.ai · 2x founding engineer · voice ai · llm fine-tuning · 7+ yoe
 
-LLM grappler currently building agentic low-latency Voice AI systems end-to-end — infra, agents, tools, observability, ui/ux and everything in between. Love to experiment with goal-based browser agents! 
+LLM grappler building low-latency voice AI systems end-to-end — llm fine-tuning, infra, agents, tools, observability, ui/ux and everything in between. Love to experiment with goal-based browser agents!
 
-Have previously led 0→1 teams at early-stage startups (pre-seed to Series B) across fraud-detection ML, secure multi-tenant bank integrations, agentic automations & voice platforms.
+Have previously led 0→1 teams at early-stage startups (pre-seed to Series B) across fraud-detection ML, secure multi-tenant bank integrations, logistics & route planning, financial reporting, agentic automations & AI companions. 
+
+Have comfortably delivered in pre-CTO environments where i was the first full-time hire.
 
 mostly `Python` / `Go` / `TypeScript`.
 
